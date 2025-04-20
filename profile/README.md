@@ -1,4 +1,4 @@
-![MobileByteLabs Banner](https://github.com/user-attachments/assets/c9a8f0fc-041d-42bc-aca7-8c1e1d7ba33e)
+![j8KS9pcIJBA5_1024_500](https://github.com/user-attachments/assets/53e28e1a-3328-4520-9e26-415d039fba35)
 
 # MobileByteLabs
 
