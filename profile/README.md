@@ -30,11 +30,11 @@ We build modular libraries, templates, and projects that help Android & iOS deve
 
 We welcome contributors of all experience levels!
 
-- **💬 Discussions**: [Join our GitHub Discussions](https://github.com/MobileByteLabs/.github/discussions)
+- **💬 Discussions**: [Join our GitHub Discussions](https://github.com/orgs/MobileByteLabs/discussions)
 - **🤝 Contribute**: [Contribution Guidelines](https://github.com/MobileByteLabs/.github/blob/main/CONTRIBUTING.md)
 - **🔗 Slack**: [Join our Slack](https://mobilebytelabs.slack.com/)
 - **📢 Updates**: [Follow us on LinkedIn](https://www.linkedin.com/company/mobilebytelabs)
-- **📅 Events**: [Check our community calendar](https://github.com/MobileByteLabs/.github/discussions/categories/events)
+- **📅 Events**: [Check our community calendar](https://github.com/orgs/MobileByteLabs/discussions/categories/events)
 - **📝 Blog**: [Read our technical articles](https://medium.com/mobilebytesensei)
 
 ## Our Vision
