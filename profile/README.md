@@ -36,8 +36,8 @@ We welcome contributors of all experience levels!
 - **🤝 Contribute**: [Contribution Guidelines](https://github.com/MobileByteLabs/.github/blob/main/CONTRIBUTING.md)
 - **🔗 Slack**: [Join our Slack](https://mobilebytelabs.slack.com/)
 - **📢 Updates**: [Follow us on LinkedIn](https://www.linkedin.com/company/mobilebytelabs)
-- **📅 Events**: [Check our community calendar](https://github.com/MobileByteLabs/community/events)
-- **📝 Blog**: [Read our technical articles](https://medium.com/mobilebytelabs)
+- **📅 Events**: [Check our community calendar](https://github.com/MobileByteLabs/.github/discussions/categories/events)
+- **📝 Blog**: [Read our technical articles](https://medium.com/mobilebytesensei)
 
 ## Our Vision
 
@@ -50,10 +50,6 @@ By fostering an ecosystem of high-quality KMP libraries, tools, and knowledge, w
 | Repository | Description |
 |------------|-------------|
 | [mbl-library-template-kmp](https://github.com/MobileByteLabs/mbl-library-template-kmp) | A template for creating new KMP libraries with best practices built-in |
-| [kmp-starter-project](https://github.com/MobileByteLabs/kmp-starter-project) | A starter project for developers new to Kotlin Multiplatform |
-| [kmp-utilities](https://github.com/MobileByteLabs/kmp-utilities) | Common utilities for KMP development |
-| [kmp-networking](https://github.com/MobileByteLabs/kmp-networking) | Cross-platform networking library with strong typing and coroutine support |
-| [kmp-persistence](https://github.com/MobileByteLabs/kmp-persistence) | Data persistence solutions for KMP applications |
 
 ## Technology Stack
 
@@ -81,7 +77,7 @@ See our [Contribution Guidelines](https://github.com/MobileByteLabs/.github/blob
 ## Roadmap
 
 - **Q2 2025**: Enhance core libraries and expand platform support
-- **Q3 2025**: Launch advanced networking and state management solutions
+- **Q3 2025**: Launch kotlin multiplatform starter project template
 - **Q4 2025**: Develop comprehensive testing tools and migration utilities
 - **2026**: Focus on performance optimization and new platform targets
 
