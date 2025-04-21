@@ -1,5 +1,3 @@
-![j8KS9pcIJBA5_1024_500](https://github.com/user-attachments/assets/53e28e1a-3328-4520-9e26-415d039fba35)
-
 # MobileByteLabs
 
 > Building Kotlin Multiplatform (KMP) tools, templates, and libraries to accelerate mobile innovation.
